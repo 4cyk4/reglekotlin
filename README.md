@@ -1,1 +1,1 @@
-# reglekotlin
+# reglekql 
